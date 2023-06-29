@@ -1,2 +1,2 @@
 # Joias-Alzen
- Meu primeiro projeto com HTML e CSS.
+ Meu primeiro projeto apenas em HTML com style.
